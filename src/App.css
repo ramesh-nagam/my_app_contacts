@@ -1,0 +1,15 @@
+html,
+body,
+*,
+button:focus,
+input:focus {
+	outline: none;
+	box-sizing: border-box;
+}
+.add-contact,.cursor-pointer {
+	cursor: pointer;
+}
+.contacts-logo{
+  width:450px;
+  height:400px;
+}
